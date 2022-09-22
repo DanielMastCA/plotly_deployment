@@ -1,0 +1,10 @@
+.jumbotron {
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+    color: white;
+}
+
+h1.title {
+    font-weight: 900;
+    font-family: Georgia;
+}
