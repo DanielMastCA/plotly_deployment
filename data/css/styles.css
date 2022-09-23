@@ -8,3 +8,23 @@ h1.title {
     font-weight: 900;
     font-family: Georgia;
 }
+
+.padding-default {
+    padding-top: 80px;
+    padding-right: 19px;
+    padding-bottom: 90px;
+    padding-left: 19px;
+}
+
+h5.bold {
+    font-weight: 600;
+}
+
+.dropdown {
+    width: 80px;
+    height: 30px;
+}
+
+.padding-left {
+    padding-left: 30px;
+}

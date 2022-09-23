@@ -120,8 +120,8 @@ function buildCharts(sample) {
       xaxis: {
         title: "OTU ID"
       },
-      height: 600,
-      width: 1200
+      height: 460,
+      width: 800
 
     };
 
@@ -167,7 +167,7 @@ function buildCharts(sample) {
     // 5. Create the layout for the gauge chart.
     var gaugeLayout = {
       title: "Belly Button Washing Frequency",
-      height: 500,
+      height: 300,
       width: 500
     };
 
@@ -179,5 +179,4 @@ function buildCharts(sample) {
 // Add background color or a variety of compatible colors to the webpage.
 // Use a custom font with contrast for the colors.
 // Make the webpage mobile-responsive.
-// Change the layout of the page.
 // Add a navigation bar that allows you to select the bar or bubble chart on the page.
